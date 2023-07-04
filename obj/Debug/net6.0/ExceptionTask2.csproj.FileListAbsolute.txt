@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\bin\Debug\net6.0\ExceptionTask2.exe
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\bin\Debug\net6.0\ExceptionTask2.deps.json
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\bin\Debug\net6.0\ExceptionTask2.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\bin\Debug\net6.0\ExceptionTask2.dll
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\bin\Debug\net6.0\ExceptionTask2.pdb
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\ExceptionTask2.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\ExceptionTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\ExceptionTask2.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\ExceptionTask2.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\ExceptionTask2.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\ExceptionTask2.dll
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\refint\ExceptionTask2.dll
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\ExceptionTask2.pdb
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\ExceptionTask2.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\ExceptionTask2\obj\Debug\net6.0\ref\ExceptionTask2.dll
