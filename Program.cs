@@ -15,6 +15,37 @@
             Console.WriteLine();
             Class1.registrationStudent3(55);
 
+            Console.WriteLine("##### Task3 ReadFile #####");
+            Console.WriteLine();
+            
+            Console.Write("Enter the file path: ");
+            string filePath = Console.ReadLine();
+
+            StreamReader reader = null;
+
+            try
+            {
+                reader = new StreamReader(filePath);
+                string contents = reader.ReadToEnd();
+                Console.WriteLine("File Contents:");
+                Console.WriteLine(contents);
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("File not found.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("An error occurred while reading the file: " + ex.Message);
+            }
+            finally
+            {
+                if (reader != null)
+                {
+                    reader.Close();
+                }
+            }
+
         }
 
 
